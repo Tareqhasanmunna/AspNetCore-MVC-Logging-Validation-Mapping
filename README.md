@@ -64,17 +64,18 @@ Program.cs
 ```bash
 git clone https://github.com/<your-username>/AspNetCore-MVC-Logging-Validation-Mapping.git
 cd AspNetCore-MVC-Logging-Validation-Mapping
-
+```
 2. Restore packages:
 ```bash
 dotnet restore
-
+```
 3.Run the project:
 ```bash
 dotnet run
-
+```
+```bash
 4. Open your browser and navigate to `http://localhost:5000/Account/Register`
-5.Submit the form to see logging, validation, and AutoMapper in action.
+5. Submit the form to see logging, validation, and AutoMapper in action.
 ```
 ---
 
