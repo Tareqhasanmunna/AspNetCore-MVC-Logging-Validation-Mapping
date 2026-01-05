@@ -69,7 +69,7 @@ cd AspNetCore-MVC-Logging-Validation-Mapping
 ```bash
 dotnet restore
 ```
-3.Run the project:
+3. Run the project:
 ```bash
 dotnet run
 ```
