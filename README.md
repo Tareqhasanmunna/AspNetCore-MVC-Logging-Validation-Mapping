@@ -73,10 +73,8 @@ dotnet restore
 ```bash
 dotnet run
 ```
-```bash
 4. Open your browser and navigate to `http://localhost:5000/Account/Register`
 5. Submit the form to see logging, validation, and AutoMapper in action.
-```
 ---
 
 
